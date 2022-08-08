@@ -1,0 +1,118 @@
+.navbar  {
+    position: fixed;
+    height: auto;
+    z-index: 111;
+    width:100%;
+    overflow: visible;
+    color: white;
+}
+.navbar-nav li {
+    padding:0px;
+}
+.navbar-nav.ml-auto {
+	margin-top: 25px;
+}
+.logo {
+    display: block;
+    float: left;
+    padding: 0px 0px 0px 16px;
+}
+.navbar.navbar-expand-lg.navbar-light.fixed-top {
+	padding: 30px 0;
+}
+.nav-link {
+	padding: 14px 25px !important;
+	color: #fff !important;
+}
+.soliteri {
+	background: #fff url(../images/soliteri.png) no-repeat top / cover;
+	height: auto;
+}
+.razmak {
+	margin-left: 555px;
+}
+.collapse {
+	padding-left: 40px;
+	width: 3000px;
+}
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+	margin-left: -230px;
+	padding-left: 20px;
+} 
+.a:hover {
+    text-decoration: none;
+}
+.mr-2, .mx-2 {
+	margin-right: .5rem !important;
+}
+.search {
+	border-left: 1px solid #29364c;
+}
+.naslov {
+	text-align: center;
+	font-size: 50pt;
+	font-family: PlayfairDisplay;
+	color: #ffffff;
+	padding-top: 250px;
+    padding-bottom: 100px;
+}
+.we-buy {
+    height: auto;
+}
+.rotateh3 {
+	font-size: 40pt;
+	color: #284a83;
+	font-family: PlayfairDisplay;
+	transform: rotate(-90deg);
+	margin-right: 1453px;
+}
+.deals {
+	font-family: PlayfairDisplay;
+	font-weight: bold;
+	font-size: 40pt;
+}
+.deals2 {
+	font-size: 18pt;
+	font-family: Nunito;
+}
+.col-md-6.text1 {
+	padding-top: 230px;
+}
+.invest {
+    height: auto;
+}
+.rotateh33 {
+	font-size: 40pt;
+	color: #284a83;
+	font-family: PlayfairDisplay;
+	transform: rotate(-90deg);
+	margin-right: 1453px;
+}
+.hol {
+    text-align: center;
+    position: relative;
+}
+.partners {
+	background-color: #e3e8f0;
+	width: auto;
+	height: auto;
+	position: absolute;
+	margin-top: -140px;
+	margin-left: 760px;
+	position: absolute;
+	margin-top: -240px;
+	margin-left: 630px;
+    padding: 60px;
+}
+.partners-text {
+	font-size: 40pt;
+	line-height: 0.9;
+	font-family: PlayfairDisplay;
+	font-weight: bold;
+	margin-bottom: 35px;
+}
+.partners-text1 {
+	font-size: 18pt;
+	font-family: Nunito;
+	color: #77777e;
+}
